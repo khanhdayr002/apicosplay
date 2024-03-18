@@ -1,0 +1,28 @@
+{
+  "files": {
+    "controllers/getLink1.js": [
+      {
+        "id": "7ad5cc40-bb74-48c5-84e9-35c3c2ef68e6",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "controllers/getLink2.js": [
+      {
+        "id": "f60c95c3-17fd-4274-894d-95260b88f771",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "data/joker.txt": [
+      {
+        "id": "1ded90ed-5d30-4471-859d-cc1aefe46c66",
+        "line": 105,
+        "version": 1,
+        "index": 9726
+      }
+    ]
+  }
+}
